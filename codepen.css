@@ -1,0 +1,36 @@
+.row {
+  margin-top: 25%
+}
+
+.results {
+
+}
+
+.result {
+  background-color: lightgrey;
+  padding: 15px;
+  margin: 10px;
+}
+
+#dropdown {
+  padding: 0;
+  height: 75px;
+  overflow: auto;
+}
+
+#dropdown li {
+  list-style: none;
+  width: 100%;
+  text-align: left;
+  border: solid lightgrey 1px;
+  background: rgba(200, 200, 200, 0.20);
+  padding: 0 5px;
+  text-overflow: ellipsis !important;
+}
+
+#dropdown a {
+  text-decoration: none;
+  color: black;
+}
+
+
