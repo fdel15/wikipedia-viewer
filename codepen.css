@@ -2,14 +2,14 @@
   margin-top: 25%
 }
 
-.results {
-
-}
-
 .result {
   background-color: lightgrey;
   padding: 15px;
   margin: 10px;
+}
+
+#random {
+  height: 20px;
 }
 
 #dropdown {
